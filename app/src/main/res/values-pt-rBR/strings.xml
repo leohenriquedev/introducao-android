@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Introducao Android</string>
+    <string name="inputName">Digite seu nome</string>
+    <string name="change">Mudar texto</string>
+    <string name="btnGoToResult">Ir para resultado</string>
+    <string name="resultName">Olá, %1$s</string>
+    <string name="error_input_name">Por favor, digite seu nome!</string>
+    <string name="send_back_result">Enviar valor de volta</string>
+</resources>

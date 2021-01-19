@@ -1,3 +1,9 @@
 <resources>
-    <string name="app_name">Introducao Android</string>
+    <string name="app_name">Android Introduction</string>
+    <string name="inputName">Put your name</string>
+    <string name="change">Change</string>
+    <string name="btnGoToResult">Go to result</string>
+    <string name="resultName">Hello, %1$s!</string>
+    <string name="error_input_name">Please, put your name!</string>
+    <string name="send_back_result">Send back result</string>
 </resources>
